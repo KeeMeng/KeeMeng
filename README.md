@@ -1,6 +1,8 @@
 ### Hello World! 
 ### ▚ Kee Meng ▚
 
+Check out my [website](https://keemeng.github.io/hello-world/) with some fun pages
+
 <!--
 **KeeMeng/KeeMeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
