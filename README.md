@@ -1,9 +1,7 @@
-### Hello World! 
-### ▚ Kee Meng ▚
+### Hello World!
 
+I'm a student who loves coding! 
 Check out my [website](https://keemeng.github.io/) with some fun pages!
-
-I also made a [screensaver](https://keemeng.github.io/hackku/homepage.html) website.
 
 <!--
 **KeeMeng/KeeMeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
